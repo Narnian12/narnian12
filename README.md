@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-Welcome to my code repo! I have been a member of GitHub for many years, but never really thought of populating it with personal code. More recently, I have begun to appreciate learning new technologies a lot more. This is a space for me to experiment on as many things as I can.
+Welcome to my code repo! I have been a member of GitHub for many years, but never really thought of populating it much. More recently, I have begun to appreciate learning new technologies a lot more.
+
+🔭 I’m currently working on building a full-stack application that can send, manipulate, and receive data from a server.
+
+🌱 I’m currently learning React, GraphQL, and Apollo.
 
 ![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=narnian12&show_icons=true&theme=tokyonight&hide=stars,prs,contribs)
 
