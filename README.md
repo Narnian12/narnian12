@@ -2,7 +2,7 @@
 
 Welcome to my code repo! I have been a member of GitHub for many years, but never really thought of populating it with personal code. More recently, I have begun to appreciate learning new technologies a lot more. This is a space for me to experiment on as many things as I can.
 
-![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=narnian12&show_icons=true&theme=tokyonight)
+![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=narnian12&show_icons=true&theme=tokyonight&hide=stars,prs,contribs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narnian12&layout=compact&theme=tokyonight&exclude_repo=CKJM_DI,DEPRECATED_mothur-rmarkdown-automation)
 
