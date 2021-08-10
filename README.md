@@ -4,6 +4,8 @@ Welcome to my code repo! I have been a member of GitHub for many years, but neve
 
 ![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=narnian12&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narnian12&layout=compact&theme=tokyonight)
+
 
 <!--
 **Narnian12/narnian12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
