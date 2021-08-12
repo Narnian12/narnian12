@@ -8,7 +8,7 @@ Welcome to my code repo! I have been a member of GitHub for many years, but neve
 
 ![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=narnian12&show_icons=true&theme=tokyonight&hide=stars,prs,contribs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narnian12&layout=compact&theme=tokyonight&exclude_repo=CKJM_DI,DEPRECATED_mothur-rmarkdown-automation)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narnian12&layout=compact&theme=tokyonight&exclude_repo=CKJM_DI,apollographql_fullstack_tutorial)
 
 
 <!--
