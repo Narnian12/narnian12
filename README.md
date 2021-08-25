@@ -4,7 +4,9 @@ Welcome to my code repo! I hope this is a space for me to better appreciate fron
 
 🔭 I’m currently working on building a full-stack application that can send, manipulate, and receive data from a server.
 
-🌱 I’m currently learning React, GraphQL, Node.js, and Apollo.
+🌱 I’m currently learning front-end development using React, GraphQL, Node.js, and Apollo.
+
+🌱 I’m currently learning back-end development primarily through [HackerRank](https://www.hackerrank.com/Narnian12?hr_r=1).
 
 <!-- ![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=narnian12&show_icons=true&theme=tokyonight&hide=stars,prs,contribs) -->
 
