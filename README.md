@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my code repo! I hope this is a space for me to better appreciate front-end technologies and grow more in my passions for back-end development.
+Welcome to my code repo! I hope this is a space for me to build front-end technologies and strengthen my passions for back-end development.
 
 🔭 I’m currently working on building a full-stack application that can send, manipulate, and receive data from a server.
 
