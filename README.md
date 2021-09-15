@@ -6,7 +6,7 @@ Welcome to my code repo! I hope this is a space for me to build front-end techno
 
 🌱 I’m currently learning front-end development using React, GraphQL, Node.js, and Apollo.
 
-🌱 I’m currently learning back-end development using C++ and SQL through [HackerRank](https://www.hackerrank.com/Narnian12?hr_r=1).
+🌱 I’m currently learning back-end development using C++, SQL, and Java through [HackerRank](https://www.hackerrank.com/Narnian12?hr_r=1).
 
 <!-- ![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=narnian12&show_icons=true&theme=tokyonight&hide=stars,prs,contribs) -->
 
