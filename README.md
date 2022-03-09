@@ -2,9 +2,9 @@
 
 Welcome to my code repo! I hope this is a space for me to build front-end technologies and strengthen my passions for back-end development.
 
-🔭 I’m currently working on building .NET Core apps using the "Head First C#" book.
+<!-- 🔭 I’m currently working on building .NET Core apps using the "Head First C#" book.
 
-<!-- 🌱 I’m currently learning front-end development using React, GraphQL, Node.js, and Apollo.
+🌱 I’m currently learning front-end development using React, GraphQL, Node.js, and Apollo.
 
 🌱 I’m currently learning back-end development using C++, SQL, and Java through [HackerRank](https://www.hackerrank.com/Narnian12?hr_r=1). -->
 
