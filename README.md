@@ -8,8 +8,6 @@ Welcome to my code repo! I hope this is a space for me to build front-end techno
 
 🌱 I’m currently learning back-end development using C++, SQL, and Java through [HackerRank](https://www.hackerrank.com/Narnian12?hr_r=1). -->
 
-[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=narnian12)](https://github.com/narnian12/github-readme-stats)
-
 <!-- ![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=narnian12&show_icons=true&theme=tokyonight&hide=stars,prs,contribs) -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narnian12&layout=compact&theme=tokyonight&exclude_repo=ckjm-di,apollographql_fullstack_tutorial,ckjm-di-projects) -->
