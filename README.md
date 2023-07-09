@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my code repo! I hope this is a space for me to build front-end technologies and strengthen my passions for back-end development.
+Welcome to my code playground :)
 
 <!-- 🔭 I’m currently working on building .NET Core apps using the "Head First C#" book.
 
@@ -10,7 +10,7 @@ Welcome to my code repo! I hope this is a space for me to build front-end techno
 
 <!-- ![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=narnian12&show_icons=true&theme=tokyonight&hide=stars,prs,contribs) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narnian12&layout=compact&theme=tokyonight&exclude_repo=ckjm-di,apollographql_fullstack_tutorial,ckjm-di-projects)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narnian12&layout=compact&theme=tokyonight&exclude_repo=ckjm-di,apollographql_fullstack_tutorial,ckjm-di-projects) -->
 
 <!--
 **Narnian12/narnian12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
